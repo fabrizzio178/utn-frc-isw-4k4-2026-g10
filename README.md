@@ -126,6 +126,14 @@ git push origin ISW_G10_LINEA_BASE_01_AprobacionTP1
 
 ---
 
+### Registro de Líneas Base
+
+| Versión | Tag | Descripción |
+| :--- | :--- | :--- |
+| 01 | `ISW_G10_LINEA_BASE_01_DefinicionEstructuraRepo` | Definición de estructura inicial y Plan SCM |
+
+---
+
 ## 9. Glosario
 * **ISW:** Ingeniería y Calidad de Software
 * **G10:** Grupo 10, el grupo correspondiente a la materia
